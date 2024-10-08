@@ -23,7 +23,7 @@ We can now show index and details of our data points by their Id. For this lab, 
 
 - As a User (AAU) I want a route that will show the details of a destination by its Name
 - AAU I want a route that will show all of the destinations in a respective area (France, Italy, New York, Japan, Tom's House, whatever you want to do!)
-- AAU I want aroute that shows a number of destination in either increasing, or decreasing price
+- AAU I want a route that shows a number of destination in either increasing, or decreasing price
 - AAU I want a route that uses two queries and filters destinations by a Max and Min price for cost of admission
 - AAU I want a route that renders only destinations with reviews higher than 4 stars
 - AAU I want a route that only has Kid Friendly destinations... but maybe you don't, so make both!
