@@ -26,3 +26,10 @@
 - AAU I want aroute that shows a number of destination in either increasing, or decreasing price
 - AAU I want a route that uses two queries and filters destinations by a Max and Min price for cost of admission
 - AAU I want a route that renders only destinations with reviews higher than 4 stars
+  
+![](https://reviewnebula.wordpress.com/wp-content/uploads/2020/05/simpson-safari.jpg)
+
+## Bonus
+- Create more data! Create more routes! Create more filters! Challenge yourself, and impress us!
+- Attach an HTML/CSS/JS front end and use any DOM manipulation to pull up this data!
+
