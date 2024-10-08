@@ -1,1 +1,17 @@
-# u2_express_travel
+### SEBR 0916
+
+# Express Travel Lab
+
+![](https://pbs.twimg.com/media/EJXHM0VXsAIFczi.jpg)
+
+## Introduction
+- Now that we have seen the basics of an Express server, including our controllers, and additional ways of finding our content, lets get one more practice lab in before we begin working with the Mongoose library tomorrow
+
+![](https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A8F03F860DC0D97F9ECFF7C436A4336E024F3A4CDB6D1C85F095FE63D5D342C7/scale?width=440&aspectRatio=1.78&format=webp)
+
+## Set Up
+
+- Create a new Express App with routes for no less than 3 travel destination types : Beach, Mountain, Camping, Amusement Park, Foodie, Eco-Tourism
+- Populate each of these destination types with at least 4 locations. These locations should have properties of their name, location, cost of admission, and any number of boolean values (open sundays, kid friendly...) and anything else you can think of!
+- Create index and show routes for each of these destinations within a Controllers file
+  
