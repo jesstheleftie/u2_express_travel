@@ -11,7 +11,7 @@
 
 ## Set Up
 
-- Create a new Express App with routes for no less than 3 travel destination types : Beach, Mountain, Camping, Amusement Park, Foodie, Eco-Tourism
+- Create a new Express App with routes for no less than 3 travel destination types : Beach, Mountain, Camping, Amusement Park, Historical, Foodie, Eco-Tourism, etc etc etc
 - Populate each of these destination types with at least 4 locations. These locations should have properties of their name, location, ratings, cost of admission, and any number of boolean values (open sundays, kid friendly...) and anything else you can think of!
 - Create index and show routes for each of these destinations within a Controllers file
   
@@ -19,13 +19,14 @@
 
 ## Exercise / User Stories
 
-- We can now show index and details of our data points by their Id. For this lab, pick any of these to try to accomplish:
+We can now show index and details of our data points by their Id. For this lab, pick any of these to try to accomplish:
 
 - As a User (AAU) I want a route that will show the details of a destination by its Name
 - AAU I want a route that will show all of the destinations in a respective area (France, Italy, New York, Japan, Tom's House, whatever you want to do!)
 - AAU I want aroute that shows a number of destination in either increasing, or decreasing price
 - AAU I want a route that uses two queries and filters destinations by a Max and Min price for cost of admission
 - AAU I want a route that renders only destinations with reviews higher than 4 stars
+- AAU I want a route that only has Kid Friendly destinations... but maybe you don't, so make both!
   
 ![](https://reviewnebula.wordpress.com/wp-content/uploads/2020/05/simpson-safari.jpg)
 
